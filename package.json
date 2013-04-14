@@ -1,6 +1,6 @@
 {
   "name": "srm2hex",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert SRM colours to their hex value equivalents.",
   "main": "index.js",
   "repository": "http://www.github.com/jonpacker/srm2hex",
